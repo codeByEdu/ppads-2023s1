@@ -25,14 +25,11 @@
 
 # Autores
 
-* Aluno 1
+* Eduardo Pereira
 * Aluno 2
 * Aluno 3
 * Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+
 
 
 # Descrição do projeto
