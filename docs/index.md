@@ -26,7 +26,7 @@
 # Autores
 
 * Eduardo Pereira
-* Aluno 2
+* Rafael Guerino
 * Aluno 3
 * Aluno 4
 
