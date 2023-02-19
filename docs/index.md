@@ -34,9 +34,17 @@
 
 # Descrição do projeto
 
+Nosso projeto tem como objetivo ajudar os professores e a escola controlar a presença dos alunos.
+Será um sistema com consulta à uma API para realizar o controle dos professores, alunos e faltas dos alunos.
+Terá um Administrador (diretor da escola), Secretaria e o Professor que lançará as faltas, cada um tem sua função.
+Diretor/Administrador poderá editar e adicionar dados dos professores para deixar salvo no sistema, o Professor pode adicionar faltas aos alunos quando não responderem a chamada na sala.
+Secretária poderá adicionar e editar os alunos da escola.
+
 *&lt;Descrição do projeto&gt;*
 
 # Diagrama de casos de uso
+
+![Diagrama Caso de Uso Alunos](https://user-images.githubusercontent.com/89796982/219969154-9487c712-6789-423f-92cf-eb383adcff0f.png)
 
 *&lt;Diagrama de casos de uso&gt;*
 
