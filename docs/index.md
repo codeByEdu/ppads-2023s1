@@ -50,7 +50,8 @@ Secretária poderá adicionar e editar os alunos da escola.
 
 # Descrição dos casos de uso
 
-*&lt;Descrição dos casos de uso&gt;*
+[*&lt;Descrição dos casos de uso&gt;*
+](https://github.com/codeByEdu/ppads-2023s1/blob/da0588514578657bbea2bd94711a7e81187b00a9/docs/Especificac%CC%A7a%CC%83o%20de%20Caso%20de%20Uso%20--%20Alunos.xlsx)
 
 # Protótipos de tela
 
