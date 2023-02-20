@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;eDucation&gt;*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -54,7 +54,7 @@ Secretária poderá adicionar e editar os alunos da escola.
 
 # Protótipos de tela
 
-*&lt;Protótipos de tela&gt;*
+[*&lt;Protótipos de tela&gt;*](https://github.com/codeByEdu/ppads-2023s1/blob/778ce002d94980ecf4992b470ad5ea0cc4824a4f/docs/PDF%20-%20Proto%CC%81tipo%20de%20telas.pdf)
 
 # Modelo de domínio
 
