@@ -27,8 +27,8 @@
 
 * Eduardo Pereira
 * Rafael Guerino
-* Aluno 3
-* Aluno 4
+* Davi Pena
+* Lucas Juan
 
 
 
