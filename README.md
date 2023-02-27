@@ -24,7 +24,8 @@ A seguir estão os passos sugeridos para a preparação do seu grupo no início 
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+*Nosso projeto é um pedido de uma escola para ter um sistema de faltas pratico e facil para os professores, os alunos estarão no ensino fund. 1, ou seja, crianças, elas possuem 1 professor principal para todas as matérias e outros de algo especifico (Ed.Fisica), serão feitas 2 chamadas por dia, e o sistema cuida de avisar os pais quando as faltas chegam a niveis preocupantes.*
+*Nosso sistema sera feito com java no backEnd e banco de dados MySql, um front end utilizando React*
 
 # Documentação
 
