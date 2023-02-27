@@ -59,7 +59,8 @@ Secretária poderá adicionar e editar os alunos da escola.
 
 # Modelo de domínio
 
-*&lt;Modelo de domínio&gt;*
+*&lt;Modelo de domínio&gt;*![Diagrama de Domínio Faltas](https://user-images.githubusercontent.com/64917167/221467682-c7976422-31d6-4afa-a775-c90ca2d2919b.jpg)
+
 
 # Decisões de arquitetura
 
