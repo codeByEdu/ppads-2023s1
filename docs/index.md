@@ -64,7 +64,8 @@ Secretária poderá adicionar e editar os alunos da escola.
 
 # Decisões de arquitetura
 
-*&lt;Decisões de arquitetura&gt;*
+*Arquitetura do projeto* (https://user-images.githubusercontent.com/64917167/221709127-d07e4bed-0eca-4b6f-8457-92c64fdb4fc1.jpg)
+
 
 # Diagrama de implantação
 
