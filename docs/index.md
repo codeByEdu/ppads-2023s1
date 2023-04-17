@@ -38,7 +38,7 @@ Secretária poderá adicionar e editar os alunos da escola.
 
 # Diagrama de casos de uso
 
-![Diagrama Caso de Uso Alunos](https://user-images.githubusercontent.com/89796982/219969154-9487c712-6789-423f-92cf-eb383adcff0f.png)
+![Diagrama Caso de Uso Alunos](https://github.com/codeByEdu/ppads-2023s1/blob/master/docs/Diagrama%20de%20Caso%20de%20Uso.png)
 
 *&lt;Diagrama de casos de uso&gt;*
 
