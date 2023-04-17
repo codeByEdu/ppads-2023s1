@@ -6,10 +6,6 @@
 # eDucation
 </center></font>
 
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
-
 **Conteúdo**
 
 - [Autores](#autores)
@@ -34,13 +30,11 @@
 
 # Descrição do projeto
 
-Nosso projeto tem como objetivo ajudar os professores e a escola controlar a presença dos alunos.
-Será um sistema com consulta à uma API para realizar o controle dos professores, alunos e faltas dos alunos.
+Nosso projeto tem como objetivo ajudar os professores e a escola controlar a presença dos alunos. Será um sistema para realizar o controle dos professores, alunos, disciplinas, turmas e faltas dos alunos.
 Terá um Administrador (diretor da escola), Secretaria e o Professor que lançará as faltas, cada um tem sua função.
-Diretor/Administrador poderá editar e adicionar dados dos professores para deixar salvo no sistema, o Professor pode adicionar faltas aos alunos quando não responderem a chamada na sala.
+Diretor/Administrador poderá editar e adicionar dados dos professores, disciplinas e turmas para deixar salvo no sistema, o Professor pode adicionar faltas aos alunos quando não responderem a chamada na sala.
 Secretária poderá adicionar e editar os alunos da escola.
 
-*&lt;Descrição do projeto&gt;*
 
 # Diagrama de casos de uso
 
