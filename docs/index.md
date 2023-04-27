@@ -44,6 +44,38 @@ Secretária poderá adicionar e editar os alunos da escola.
 
 # Descrição dos casos de uso
 
+| **Especificação de caso de uso** |                                                                                            |
+|----------------------------------|--------------------------------------------------------------------------------------------|
+| **Nome**                         | Manter Alunos                                                                              |
+| **Atores**                       | Secretaria                                                                                 |
+| **Sumário**                      | Este caso de uso permite que o   secretária inclua, exclua ou consulte os dados dos alunos |
+| **Pré-condição**                 | Entrar no sistema                                                                          |
+| **Pós-condição**                 | Alunos terão seus dados   incluídos no sistema, assim poderão ser atribuídas as faltas.    |
+
+| **Fluxo Principal**                   |                                                                                     |
+|---------------------------------------|-------------------------------------------------------------------------------------|
+| **Ações do   Ator**                   | **Ações do Sistema**                                                                |
+| 1.   Seleciona a opção Manter Alunos. |                                                                                     |
+|                                       |  2. Apresenta uma lista com   os Alunos que estiverem cadastrados.                  |
+|                                       | 3. O sistema apresenta opções de   Incluir (FA1), Excluir (FA2) ou Consultar (FA3). |
+|  4.   Seleciona a opção desejada.     |                                                                                     |
+
+| **Fluxo Alternativo 1 (FA1) – Incluir Aluno**        |                                                                  |
+|------------------------------------------------------|------------------------------------------------------------------|
+| **Ações do   Ator**                                  | **Ações do Sistema**                                             |
+| 1.   Seleciona a opção incluir Aluno.                |                                                                  |
+|                                                      |  2. O sistema apresenta os   dados que precisam ser preenchidos. |
+| 3.   Preenche os dados solicitados e clica em salvar |                                                                  |
+|                                                      |  4. Salva   os dados do Aluno.                                   |
+
+| **Fluxo Alternativo 2 (FA2) – Excluir Aluno** |                                                              |
+|-----------------------------------------------|--------------------------------------------------------------|
+| **Ações do Ator**                             | **Ações do Sistema**                                         |
+| 1. Seleciona a opção Excluir Aluno.           |                                                              |
+|                                               |  2. O sistema apresenta os dados do aluno que será excluído. |
+| 3. Confirma Exclusão                          |                                                              |
+|                                               |  4. Exclui o Aluno.                                          |
+
 [*&lt;Descrição dos casos de uso&gt;*
 ](https://github.com/codeByEdu/ppads-2023s1/blob/da0588514578657bbea2bd94711a7e81187b00a9/docs/Especificac%CC%A7a%CC%83o%20de%20Caso%20de%20Uso%20--%20Alunos.xlsx)
 
