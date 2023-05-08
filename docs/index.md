@@ -322,7 +322,7 @@ Secretária poderá adicionar e editar os alunos da escola.
 
 # Diagrama de implantação
 
-*&lt;Diagrama de implantação&gt;*
+![*&lt;Diagrama de implantação&gt;*](https://github.com/codeByEdu/ppads-2023s1/blob/master/docs/Diagrama%20de%20Implanta%C3%A7%C3%A3o.png)
 
 # Referências
 
